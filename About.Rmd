@@ -1,0 +1,31 @@
+---
+title: "自我介紹"
+author: "Mislav"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 編輯說明
+
+- 第二行的"My name"換成自己的名字
+- **自我介紹**之下的"NULL"換成自己想編輯的內容
+- 完成之後按一下編輯視窗上方的"Knit"，產生網頁檔案。*第一次執行會安裝一些套件！*
+- 完成後push回你的作業repo。第一次作業完成！
+
+## 自我介紹
+
+- 我從那裡來？ 
+
+NULL
+
+- 我決定來這裡的動機？
+
+NULL
+
+- 我對這門課的期望？
+
+NULL
